@@ -82,8 +82,12 @@ I'm a proactive person, self-driven and guided by personal values of Integrity, 
 - 👯 I’m looking to collaborate on software development projects...
 - 🤔 I’m looking for help with finding my first software development job...
 - 💬 Ask me about loom bands, I've spent my summer being roped into creating jewellry!
-- 📫 How to reach me: <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="monica-murray-29b48a22" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ie.linkedin.com/in/monica-murray-29b48a22?trk=profile-badge">Monica Murray</a></div>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/monica-murray-29b48a22/">
+  <img
+    alt="Linkedin" target="_blank" rel="noopener noreferrer"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
               
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love the sea!  Swimming in it, walking by it, listening to it...
