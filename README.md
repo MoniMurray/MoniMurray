@@ -12,6 +12,13 @@ I have a background in administration and bring well developed creative problem 
 
 I'm a proactive person, self-driven and guided by personal values of Integrity, Respect and Transparency.
 
+### Contact Me
+
+<a href="https://www.linkedin.com/in/monica-murray-29b48a22/">
+  <img
+    alt="Linkedin" target="_blank" rel="noopener noreferrer"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
 
 ### My Tech Stack
 
@@ -80,16 +87,8 @@ I'm a proactive person, self-driven and guided by personal values of Integrity, 
 - 🔭 I’m currently working on familiarising myself with automated testing...
 - 🌱 I’m currently learning Unittest...
 - 👯 I’m looking to collaborate on software development projects...
-- 🤔 I’m looking for help with finding my first software development job...
-- 💬 Ask me about loom bands, I've spent my summer being roped into creating jewellry!
-- 📫 How to reach me:
-  <a href="https://www.linkedin.com/in/monica-murray-29b48a22/">
-  <img
-    alt="Linkedin" target="_blank" rel="noopener noreferrer"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-  />
-</a>
-              
+- 🤔 I’m looking for help with finding my first software development job
+- 💬 Ask me about loom bands, I've spent my summer being roped into creating loom band jewellery!             
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love the sea. Swimming in it, walking by it, listening to it - unfortunately I live in the midlands!
 
